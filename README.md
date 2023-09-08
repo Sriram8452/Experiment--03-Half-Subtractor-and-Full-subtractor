@@ -57,7 +57,8 @@ endmodule
 
 
 ##  RTL realization
-![model](56.png)
+![model]![56](https://github.com/Sriram8452/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118708032/7e702564-f49a-4b05-a7c1-9166559bfe7c)
+
 ![model](58.png)
 
 
