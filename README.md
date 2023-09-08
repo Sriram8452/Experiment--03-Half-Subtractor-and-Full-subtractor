@@ -50,23 +50,27 @@ endmodule
 ## Output:
 
 ## Truthtable
-(https://github.com/Sriram8452/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118708032/a00aeed0-ad3a-42c0-92a0-190ac77ec584)
+![3](https://github.com/Sriram8452/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118708032/8e05cd36-6fc2-453b-99f6-63cfd452f4ca)
+![4](https://github.com/Sriram8452/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118708032/fd4cb11b-b044-48cf-b69e-d333f170c91d)
 
-(https://github.com/Sriram8452/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118708032/29f973da-904d-4811-80d7-24e4eebab97b)
 
 
 
 
 
 ##  RTL realization
-(https://github.com/Sriram8452/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118708032/7e702564-f49a-4b05-a7c1-9166559bfe7c)
-(https://github.com/Sriram8452/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118708032/328af908-d5ff-45d3-a2d6-63c174374980)
+![56](https://github.com/Sriram8452/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118708032/e669dba2-8d0a-4003-880f-5db283317caa)
+![58](https://github.com/Sriram8452/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118708032/3f753335-5ff2-4892-be9f-d21f62294cab)
+
+
 
 
 
 ## Timing diagram 
-(https://github.com/Sriram8452/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118708032/fa1df81b-9074-4a9a-b75d-b45855219422)
-(https://github.com/Sriram8452/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118708032/d5e6cb6c-7394-4b7a-99c7-19585842b3a0)
+![57](https://github.com/Sriram8452/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118708032/30794ed0-d3e9-4cfd-a3aa-5a99b3d5e278)
+![59](https://github.com/Sriram8452/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118708032/898879f8-b551-4890-9c26-41a6e1b89fd0)
+
+
 
 
 
