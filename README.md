@@ -1,4 +1,4 @@
-# Experiment--03-Half-Subtractor-and-Full-subtractor
+# Experiment--04-Half-Subtractor-and-Full-subtractor
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -59,8 +59,10 @@ endmodule
 
 
 ##  RTL realization
-![56](https://github.com/Sriram8452/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118708032/e669dba2-8d0a-4003-880f-5db283317caa)
-![58](https://github.com/Sriram8452/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118708032/3f753335-5ff2-4892-be9f-d21f62294cab)
+![56](https://github.com/Sriram8452/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118708032/28ba6a9f-71e8-4a95-a50a-d7563315b40f)
+
+![58](https://github.com/Sriram8452/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118708032/9b7a0114-5de3-4438-8f00-579134bcbb72)
+
 
 
 
